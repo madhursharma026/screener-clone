@@ -1,0 +1,22 @@
+.companyName {
+    border: 1px solid #CBCBCB;
+    font-size: 14px;
+    color: grey;
+}
+
+.companyName:hover {
+    border: 1px solid #CBCBCB;
+    background: white;
+    font-size: 14px;
+    color: grey;
+}
+
+.searchBarContainerHeight {
+    height: 88vh;
+    align-content: center;
+}
+
+.searchBarContainerWeight {
+    max-width: 650px;
+    margin: auto;
+}

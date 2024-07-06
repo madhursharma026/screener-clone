@@ -1,0 +1,38 @@
+.containerBG {
+    background: #EAEEF4;
+}
+
+.screenSectionCard {
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.btnFloat {
+    float: right;
+}
+
+.paraWidth {
+    max-width: 900px;
+}
+
+.textAreaStyle {
+    font-size: 16px;
+    font-weight: 500;
+    color: #48535c;
+}
+
+.tableContainer {
+    width: 100%;
+    overflow-x: auto;
+}
+
+.scrollableTable {
+    min-width: 1000px;
+}
+
+.th,
+.td {
+    white-space: nowrap;
+    text-align: center;
+    vertical-align: middle;
+}
